@@ -1,5 +1,5 @@
 Hi there 👋 
-- 👀 I’m interested in Data visualization and storytelling, Predictive modeling and forecasting, Exploring large datasets
+- 👀 I’m interested in Data visualization and storytelling, Data Wrangling, Predictive modeling and forecasting, Exploring large datasets
 - 🌱 I’m currently learning Advanced statistical analysis techniques, Market Mix Modeling and Neural networking.
 - 💞️ I’m looking to collaborate in data-driven research initiatives, data analysis projects
 - 📫 How to reach me - www.linkedin.com/in/ayan1303g/
